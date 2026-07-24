@@ -1,0 +1,30 @@
+[
+  {
+    "id": "star-1",
+    "title": "Starlight Dream",
+    "rarity": "Rare",
+    "image": "https://raw.githubusercontent.com/your-user/your-repo/main/images/star-1.png",
+    "notes": "Shiny photocard from the archive"
+  },
+  {
+    "id": "star-2",
+    "title": "Midnight Bloom",
+    "rarity": "Ultra Rare",
+    "image": "https://raw.githubusercontent.com/your-user/your-repo/main/images/star-2.png",
+    "notes": "Limited edition collector card"
+  },
+  {
+    "id": "star-3",
+    "title": "Aurora Pulse",
+    "rarity": "Common",
+    "image": "https://raw.githubusercontent.com/your-user/your-repo/main/images/star-3.png",
+    "notes": "A bright and cheerful photocard"
+  },
+  {
+    "id": "star-4",
+    "title": "Galaxy Whisper",
+    "rarity": "Impossible",
+    "image": "https://raw.githubusercontent.com/your-user/your-repo/main/images/star-4.png",
+    "notes": "Ultra-rare phantom card from the registry"
+  }
+]
